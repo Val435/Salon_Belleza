@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1057552595575",
+    "firebase_url": "https://salonbelleza-21a78-default-rtdb.firebaseio.com",
+    "project_id": "salonbelleza-21a78",
+    "storage_bucket": "salonbelleza-21a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057552595575:android:8b0fac1ad2e44e1a0e6472",
+        "android_client_info": {
+          "package_name": "com.example.shop_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OvslhXXDG_fpc3_QJQUQzCa7yD-NQDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
